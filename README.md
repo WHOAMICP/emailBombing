@@ -8,6 +8,8 @@ $pkg install git
 
 $pkg install python
 
+$git clone https://github.com/WHOAMICP/emailBombing.git
+
 $cd emailBombing
 
 $python emailBombing
